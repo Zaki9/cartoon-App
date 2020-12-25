@@ -1,0 +1,6 @@
+module Pods_cartoonApp_cartoonAppTests {
+  umbrella header "Pods-cartoonApp-cartoonAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
